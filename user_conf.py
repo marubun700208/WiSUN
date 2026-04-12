@@ -1,0 +1,14 @@
+# coding: UTF-8
+#
+# user_conf.py
+#
+# スマート電力量メーター　ユーザ設定
+#
+# Copyright(C) 2016 pi@blue-black.ink
+#
+
+SEM_ROUTEB_ID = '00000099021000000000000000844B98'
+SEM_PASSWORD = 'APXQ8N5W6C7M'
+SEM_INTERVAL = 3	# 瞬時電力取得間隔[s]
+SEM_DURATION = 6	# アクティブスキャンduration (通常は変更の必要なし)
+UDG1WSNE = 1            # 0:BP35A1    1: UDG-1-WSNE
