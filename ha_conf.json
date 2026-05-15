@@ -1,0 +1,6 @@
+{
+  "haIp": "192.168.X.X",
+  "haPort": 8123,
+  "entityId": "sensor.your_temperature_sensor",
+  "token": "YOUR_LONG_LIVED_ACCESS_TOKEN"
+}
